@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\політех 3 курс\\хмарні технології\\laba1\\laba1.csproj",
+      "projectUniqueName": "D:\\політех 3 курс\\хмарні технології\\qwerty\\hmara\\laba1.csproj",
       "projectName": "laba1",
-      "projectPath": "D:\\політех 3 курс\\хмарні технології\\laba1\\laba1.csproj",
+      "projectPath": "D:\\політех 3 курс\\хмарні технології\\qwerty\\hmara\\laba1.csproj",
       "packagesPath": "C:\\Users\\userPC\\.nuget\\packages\\",
-      "outputPath": "D:\\політех 3 курс\\хмарні технології\\laba1\\obj\\",
+      "outputPath": "D:\\політех 3 курс\\хмарні технології\\qwerty\\hmara\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\userPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
